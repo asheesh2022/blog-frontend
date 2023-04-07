@@ -1,0 +1,28 @@
+.blog-post {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+  }
+  
+  .blog-post-image {
+    display: block;
+    width: 50%;
+    /* height: auto; */
+    height: 50%;
+    margin-bottom: 1rem;
+  }
+  
+  .blog-post-title {
+    margin-top: 0;
+  }
+  
+  .blog-post-meta {
+    margin-bottom: 1rem;
+  }
+  
+  .blog-post-content {
+    line-height: 1.5;
+    font-size: 1.125rem;
+    color: #333;
+  }
+  

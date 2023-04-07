@@ -1,0 +1,150 @@
+
+.signUpPage {
+    position: relative;
+    width: 1440px;
+    height: 45px;
+    left: 0;
+    background: #FFFFFF;
+}
+
+.signUpHome {
+
+    position: absolute;
+    width: 1440px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+}
+
+.navbarSignUp {
+    position: absolute;
+    width: 1440px;
+    height: 53px;
+    left: 0px;
+    top: 4px;
+
+}
+
+.navbarSignUp ul {
+    position: absolute;
+    width: 340px;
+    height: 28px;
+    left: 1018px;
+    top: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.navbarSignUp li {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 15px;
+    cursor: pointer;
+
+
+
+} 
+
+
+
+/* .register {
+    display: grid;
+    justify-items: center;
+
+    position: absolute;
+    width: 406px;
+    height: 46px;
+    left: 200px;
+    top: 501px;
+
+    margin-left: 300px;
+    /* margin-top:-50px; */
+
+/* }  */
+.signUpInputs{
+    display: grid;
+    justify-items: center;
+    margin-top: -30rem;
+    /* margin-bottom: 5px; */
+    
+}
+
+
+.name {
+    width: 406px;
+    height: 46px;
+    left: 517px;
+    top: 353px;
+    margin-bottom: 5px;
+
+    background: #FAFAFA;
+    opacity: 0.8;
+}
+
+.email {
+
+    width: 406px;
+    height: 46px;
+    left: 517px;
+    top: 353px;
+
+    background: #FAFAFA;
+    opacity: 0.8;
+}
+
+.password {
+
+    width: 406px;
+    height: 46px;
+    left: 517px;
+    top: 353px;
+
+    background: #FAFAFA;
+    opacity: 0.8;
+}
+
+.signUp {
+    display: grid;
+    justify-items: center;
+    margin-top: 6.8rem;
+    position: relative;
+}
+
+.signUpButton {
+    /* position: relative; */
+    width: 100px;
+    height: 30px;
+    color: white;
+    padding: 7px;
+    cursor: pointer;
+
+    /* button--color */
+
+    background: linear-gradient(95.32deg, #313131 0%, #000000 101.64%);
+    /* border: 2px solid #FFFFFF; */
+    border-radius: 3px;
+}
+
+.signUpImage{
+    position:relative;
+    top: 10px;
+    
+    } 
+    
+    .image {
+    
+        width: 100%;
+        height: 830px;
+        left: 0px;
+        top: 0px;
+        object-fit: cover;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(image.jpg);
+    
+    }
+    
